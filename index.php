@@ -2,7 +2,7 @@
     include_once("templates/header.php");
 ?>
 <main>
-    <div id="tittle-container">
+    <div id="title-container">
         <h1>Blog Codar</h1>
         <p>O seu blog de programação</p>
     </div>
